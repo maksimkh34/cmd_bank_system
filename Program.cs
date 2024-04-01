@@ -295,16 +295,6 @@ class Bank
         return false;
     }
 
-    public int FindAccount(string accountName)
-    {
-        for (int i = 0; i < accounts.Count; i++)
-        {
-            BankAccount bankAccount = accounts[i];
-            if (bankAccount.FullName == accountName) return i;
-        }
-        return -1;
-    }
-
     public string GetBankInfo()
     {
         string result = "";

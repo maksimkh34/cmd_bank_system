@@ -1,0 +1,14 @@
+D:\Work\C#\ConsoleBank\bin\Debug\net8.0\ConsoleBank.exe
+D:\Work\C#\ConsoleBank\bin\Debug\net8.0\ConsoleBank.deps.json
+D:\Work\C#\ConsoleBank\bin\Debug\net8.0\ConsoleBank.runtimeconfig.json
+D:\Work\C#\ConsoleBank\bin\Debug\net8.0\ConsoleBank.dll
+D:\Work\C#\ConsoleBank\bin\Debug\net8.0\ConsoleBank.pdb
+D:\Work\C#\ConsoleBank\obj\Debug\net8.0\ConsoleBank.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\C#\ConsoleBank\obj\Debug\net8.0\ConsoleBank.AssemblyInfoInputs.cache
+D:\Work\C#\ConsoleBank\obj\Debug\net8.0\ConsoleBank.AssemblyInfo.cs
+D:\Work\C#\ConsoleBank\obj\Debug\net8.0\ConsoleBank.csproj.CoreCompileInputs.cache
+D:\Work\C#\ConsoleBank\obj\Debug\net8.0\ConsoleBank.dll
+D:\Work\C#\ConsoleBank\obj\Debug\net8.0\refint\ConsoleBank.dll
+D:\Work\C#\ConsoleBank\obj\Debug\net8.0\ConsoleBank.pdb
+D:\Work\C#\ConsoleBank\obj\Debug\net8.0\ConsoleBank.genruntimeconfig.cache
+D:\Work\C#\ConsoleBank\obj\Debug\net8.0\ref\ConsoleBank.dll
